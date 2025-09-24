@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Advance",
+        "build": "1853",
+        "sunk": "1885",
+        "depth": "85 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.716217,
+          43.61183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahnapee",
+        "build": "1876",
+        "sunk": "1884",
+        "depth": "0\u20137 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.710583,
+          43.785167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alaska",
+        "build": "1869",
+        "sunk": "1879",
+        "depth": "~5 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.511283,
+          44.19345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Algoma",
+        "build": "1918",
+        "sunk": "1919",
+        "depth": "85 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.671683,
+          43.891967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "America",
+        "build": "1873",
+        "sunk": "1880",
+        "depth": "130 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4475,
+          44.3508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arctic (tug)",
+        "build": "1881",
+        "sunk": "1930",
+        "depth": "15 ft",
+        "source": "https://en.wikipedia.org/wiki/Arctic_(tug)",
+        "note": "Listed coordinates are from public records (NRHP/Wisconsin Historical Society)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63115,
+          44.11405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlanta",
+        "build": "1891",
+        "sunk": "1906",
+        "depth": "17 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7827,
+          43.570883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Byron",
+        "build": "1849",
+        "sunk": "1867",
+        "depth": "135 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6878,
+          43.605167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Continental",
+        "build": "1882",
+        "sunk": "1904",
+        "depth": "15 ft",
+        "source": "https://www.wisconsinshipwrecks.org/Vessel/Details/119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5077,
+          44.2322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floretta",
+        "build": "1868",
+        "sunk": "1885",
+        "depth": "170 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.53667,
+          43.954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Francis Hinton",
+        "build": "1889",
+        "sunk": "1909",
+        "depth": "15\u201320 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.631267,
+          44.11117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helvetia",
+        "build": "1873",
+        "sunk": "1921",
+        "depth": "165 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60715,
+          43.790017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henry Gust",
+        "build": "1893",
+        "sunk": "1935",
+        "depth": "85 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48817,
+          44.139967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LaSalle",
+        "build": "1874",
+        "sunk": "1875",
+        "depth": "12 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50985,
+          44.192067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linda E",
+        "build": "1937",
+        "sunk": "1998",
+        "depth": "260 ft",
+        "source": "https://www.wisconsinshipwrecks.org/",
+        "note": "Precise published coordinates are on WisconsinShipwrecks and NOAA records; placeholder used here \u2014 see README for links."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0,
+          43.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lookout",
+        "build": "1855",
+        "sunk": "1897",
+        "depth": "10 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.509933,
+          44.195117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selah Chamberlain",
+        "build": "1873",
+        "sunk": "1886",
+        "depth": "90 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.656683,
+          43.769933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senator",
+        "build": "1896",
+        "sunk": "1929",
+        "depth": "460 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56972,
+          43.33556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silver Lake",
+        "build": "1889",
+        "sunk": "1900",
+        "depth": "210 ft",
+        "source": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_the_Wisconsin_Shipwreck_Coast_National_Marine_Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57767,
+          43.80617
+        ]
+      }
+    }
+  ]
+}
